@@ -17,6 +17,7 @@ interpolation and its various applications, based on different approaches,
 increasing the awareness of the automated reasoning community for challenging
 open problems related to interpolation.
 
-iPRA 2022, the third workshop on interpolation is affiliated with IJCAR 2022. The workshop continues the iPRA workshop series:
+iPRA 2022, the 4th workshop on interpolation is affiliated with IJCAR 2022. The workshop continues the iPRA workshop series:
 * <a href="http://cav2013.forsyte.at/workshops/interpolation/index.html">The interpolation workshop 2013 in Saint Petersburg</a>
 * <a href="https://easychair.org/smart-program/VSL2014/iPRA-index.html">The interpolation workshop 2014 in Vienna</a>
+* <a href="https://forsyte.at/events/interpolation/">The interpolation workshop 2015 in San Francisco</a>
