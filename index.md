@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<h1>About the workshop</h1>
+<h1>About the Workshop</h1>
 
 Starting out from Craig's interpolation theorem for first-order logic, the
 existence and computation of interpolant formulas became an

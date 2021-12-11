@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<h1>About the Workshop</h1>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Starting out from Craig's interpolation theorem for first-order logic, the
+existence and computation of interpolant formulas became an
+active research area, with applications in different fields, notably in verification,
+databases and knowledge representation. There are challenging theoretical and
+practical questions, for model theoretic as well as proof theoretic
+approaches. The workshop aims at bringing together researchers working on
+interpolation and its various applications, based on different approaches,
+increasing the awareness of the automated reasoning community for challenging
+open problems related to interpolation.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<h1>Organizers</h1>
 
-
-[jekyll-organization]: https://github.com/jekyll
+* <a href="https://www.cs.ox.ac.uk/people/michael.benedikt/">Michael Benedikt</a>
+* <a href="http://cs.christophwernhard.com/">Christoph Wernhard</a>
+* <a href="https://philipp.ruemmer.org/">Philipp Rümmer</a>
