@@ -27,8 +27,8 @@ The workshop continues the iPRA workshop series:
 <h1>Organizers</h1>
 
 * <a href="https://www.cs.ox.ac.uk/people/michael.benedikt/">Michael Benedikt</a>
-* <a href="http://cs.christophwernhard.com/">Christoph Wernhard</a>
 * <a href="https://philipp.ruemmer.org/">Philipp Rümmer</a>
+* <a href="http://cs.christophwernhard.com/">Christoph Wernhard</a>
 
 <h1>Important Dates</h1>
 
