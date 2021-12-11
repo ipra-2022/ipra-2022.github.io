@@ -22,6 +22,12 @@ iPRA 2022, the 4th workshop on interpolation is affiliated with IJCAR 2022. The 
 * <a href="https://easychair.org/smart-program/VSL2014/iPRA-index.html">The interpolation workshop 2014 in Vienna</a>
 * <a href="https://forsyte.at/events/interpolation/">The interpolation workshop 2015 in San Francisco</a>
 
+<h1>Organizers</h1>
+
+* <a href="https://www.cs.ox.ac.uk/people/michael.benedikt/">Michael Benedikt</a>
+* <a href="http://cs.christophwernhard.com/">Christoph Wernhard</a>
+* <a href="https://philipp.ruemmer.org/">Philipp Rümmer</a>
+
 <h1>Important Dates</h1>
 
 <b>tba</b>
