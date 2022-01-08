@@ -2,34 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+# layout: default
+layout: forward
 ---
 
-<h1>About the Workshop</h1>
-
-Starting out from Craig's interpolation theorem for first-order logic, the
-existence and computation of interpolant formulas became an
-active research area, with applications in different fields, notably in verification,
-databases and knowledge representation. There are challenging theoretical and
-practical questions, for model theoretic as well as proof theoretic
-approaches. The workshop aims at bringing together researchers working on
-interpolation and its various applications, based on different approaches,
-increasing the awareness of the automated reasoning community for challenging
-open problems related to interpolation.
-
-iPRA 2022, the 4th Workshop on Interpolation: From Proofs to Applications is affiliated with IJCAR 2022, and will take place in the post-FLoC block (August 11-12).
-
-The workshop continues the iPRA workshop series:
-* <a href="http://cav2013.forsyte.at/workshops/interpolation/index.html">The interpolation workshop 2013 in Saint Petersburg</a>
-* <a href="https://easychair.org/smart-program/VSL2014/iPRA-index.html">The interpolation workshop 2014 in Vienna</a>
-* <a href="https://forsyte.at/events/interpolation/">The interpolation workshop 2015 in San Francisco</a>
-
-<h1>Organizers</h1>
-
-* <a href="https://www.cs.ox.ac.uk/people/michael.benedikt/">Michael Benedikt</a>
-* <a href="https://philipp.ruemmer.org/">Philipp Rümmer</a>
-* <a href="http://cs.christophwernhard.com/">Christoph Wernhard</a>
-
-<h1>Important Dates</h1>
-
-<b>tba</b>
+This page should automatically redirect
+to <a href="https://ipra-2022.bitbucket.io/">https://ipra-2022.bitbucket.io/</a>
